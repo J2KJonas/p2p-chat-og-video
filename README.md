@@ -1,7 +1,7 @@
 # p2p-chat-og-video
 p2p chat og video projekt.
 
-This is NOT my project but rather an expample and experiment for myself to show that I could set a simple p2p chat and video website up. SUCCES.
+This is NOT my project but rather an example/experiment for myself to show that I could set a simple p2p chat and video website up. SUCCES.
 The way it works is that you follow the following steps:
 1. Put all files in ONE folder.
 2. Locate folder in terminal/cmd.
