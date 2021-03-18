@@ -12,4 +12,4 @@ In the browser you'll need to open up a separate tab with one of the tabs having
 1. You copy "Your ID" from the tab with #init in the top paste it in the tab without #init in and press the button named connect. (std link or something)
 2. After pasting "Your ID" in tab 2(not #init) where it says "Other ID" and press connect, you will get an ID in the tab 2 (Your ID gets updated).
 3. Paste the updated "Your ID" in tab 1 (#init) where everything started and press the connect button.
-4. Have fun with chatting and video. (If you've allowed the camera then you'll be able to see yourself).
+4. Have fun with the chat and video. (If you've allowed the camera then you'll be able to see yourself).
