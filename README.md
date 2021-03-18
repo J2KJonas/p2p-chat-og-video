@@ -4,7 +4,7 @@ p2p chat og video projekt.
 This is NOT my project but rather an example/experiment for myself to show that I could set a simple p2p chat and video website up. SUCCES.
 The way it works is that you follow the following steps:
 1. Put all files in ONE folder.
-2. Locate folder in terminal/cmd.
+2. Locate folder in the terminal/cmd.
 3. follow the steps here for installing important stuff: https://codingshiksha.com/javascript/build-p2p-peer-to-peer-video-and-text-chat-in-javascript-using-simple-peer-and-webrtc-full-tutorial/
 4. Create a local server ('http-server' in the terminal / cmd)
 
